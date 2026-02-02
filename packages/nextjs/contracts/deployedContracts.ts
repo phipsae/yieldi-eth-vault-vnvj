@@ -8,7 +8,7 @@ import { GenericContractsDeclaration } from "~~/utils/scaffold-eth/contract";
 const deployedContracts = {
   11155111: {
     YieldiVault: {
-      address: "0x1d5b2726c448165399ea017a8ee6d792b5e7a09e" as const,
+      address: "0x2b44685a1731132dd7938f9154c0107b7e570db6" as const,
       abi: [
   {
     "inputs": [],
