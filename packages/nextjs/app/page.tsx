@@ -239,6 +239,7 @@ export default function HomePage() {
             <h4 className="font-semibold text-gray-800 mb-2">Dashboard</h4>
             <p className="text-gray-600 text-sm">Personal vault statistics</p>
           </Link>
+          // asdasd
 
           <Link
             href="/analytics"
